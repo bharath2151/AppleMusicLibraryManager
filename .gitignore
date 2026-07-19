@@ -16,3 +16,5 @@ Thumbs.db
 
 # macOS
 .DS_Store
+
+config.json
