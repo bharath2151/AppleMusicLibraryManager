@@ -1,0 +1,6 @@
+{
+    "failed_songs_path": "D:\\AMDL\\apple-music-downloader\\failed_songs.json",
+    "amdl_path": "D:\\AMDL\\apple-music-downloader\\amdl.exe",
+    "music_library": "D:\\Music\\Apple Music",
+    "export_folder": "exports"
+}

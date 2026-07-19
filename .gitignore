@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Log files
+logs/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
